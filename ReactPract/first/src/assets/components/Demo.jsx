@@ -1,11 +1,11 @@
-import React from "react";
+import React from 'react'
 
-function Demo() {
+const Demo = () => {
   return (
-    <>
-      <h2>Suvedha</h2>
-    </>
-  );
+    <div>
+        <h2>Suvedha</h2>
+    </div>
+  )
 }
 
-export default Demo;
+export default Demo
